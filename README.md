@@ -10,4 +10,4 @@ A very important thing that you need is the jetson-inference folder(https://gith
 5. After running these commands, you should wait until you see a pop-up screen of your camera displaying video. On the top left, it would show the percentage of the color. For example, you could be pointing at a red object and it would have something in the top left corner that would say "92.62% warm."
 6. Have fun! You can now test and see the different objects around in your house and seeing if it is a cool color or warm color. It is recommended that you put the color of the object closer to the camera.
 # Demonstration
-I have made a test demonstration video on my end and you can see how it works. The video link for the demonstration is here: LINK!!!
+I have made a test demonstration video on my end and you can see how it works. The video link for the demonstration is here: https://www.youtube.com/watch?v=CDo193WkX8c
